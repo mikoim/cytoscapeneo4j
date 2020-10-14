@@ -16,7 +16,7 @@
         <org.osgi.core.version>4.2.0</org.osgi.core.version>
         <neo4j-java-driver.version>1.4.0</neo4j-java-driver.version>
         <pax-logging-api.version>1.5.2</pax-logging-api.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <log4j.version>1.2.17</log4j.version>
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <maven-bundle-plugin.version>3.5.0</maven-bundle-plugin.version>
